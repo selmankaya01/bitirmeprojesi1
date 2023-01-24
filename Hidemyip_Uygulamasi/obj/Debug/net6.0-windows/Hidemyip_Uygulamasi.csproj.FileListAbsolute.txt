@@ -1,0 +1,34 @@
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\bin\Debug\net6.0-windows\Hidemyip_Uygulamasi.exe
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\bin\Debug\net6.0-windows\Hidemyip_Uygulamasi.deps.json
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\bin\Debug\net6.0-windows\Hidemyip_Uygulamasi.runtimeconfig.json
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\bin\Debug\net6.0-windows\Hidemyip_Uygulamasi.dll
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\bin\Debug\net6.0-windows\Hidemyip_Uygulamasi.pdb
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.Proxy_Kontrol.resources
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.AssemblyInfo.cs
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.dll
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\refint\Hidemyip_Uygulamasi.dll
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.pdb
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.genruntimeconfig.cache
+C:\Users\Selman\source\repos\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\ref\Hidemyip_Uygulamasi.dll
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\bin\Debug\net6.0-windows\Hidemyip_Uygulamasi.exe
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\bin\Debug\net6.0-windows\Hidemyip_Uygulamasi.deps.json
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\bin\Debug\net6.0-windows\Hidemyip_Uygulamasi.runtimeconfig.json
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\bin\Debug\net6.0-windows\Hidemyip_Uygulamasi.dll
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\bin\Debug\net6.0-windows\Hidemyip_Uygulamasi.pdb
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.Proxy_Kontrol.resources
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.AssemblyInfo.cs
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.dll
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\refint\Hidemyip_Uygulamasi.dll
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.pdb
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\Hidemyip_Uygulamasi.genruntimeconfig.cache
+C:\Users\Selman\Desktop\Bitirme Projesi 1 (Selman KAYA - 192523208=\Hidemyip_Uygulamasi\obj\Debug\net6.0-windows\ref\Hidemyip_Uygulamasi.dll
